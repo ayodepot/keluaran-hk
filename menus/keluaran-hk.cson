@@ -1,0 +1,22 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Toggle keluaran-hk'
+      'command': 'keluaran-hk:toggle'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'keluaran-hk'
+      'submenu': [
+        {
+          'label': 'Toggle'
+          'command': 'keluaran-hk:toggle'
+        }
+      ]
+    ]
+  }
+]

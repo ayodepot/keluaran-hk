@@ -1,0 +1,17 @@
+{
+  "name": "keluaran-hk",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Togel Hongkong Resmi: Data Hk dan Situs Pengeluaran hk hari ini",
+  "keywords": [
+    "keluaran hk",
+    "pengeluaran hk",
+    "togel hongkong",
+    "data hk"
+  ],
+  "repository": "https://github.com/ayodepot/keluaran-hk",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
